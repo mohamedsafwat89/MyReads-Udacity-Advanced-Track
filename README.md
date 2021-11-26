@@ -1,7 +1,7 @@
 # MyReads Project
 
 * I used Hooks (useState, UseEffect and useDebounce ).
-* I made function commponents
+* I used function components
 * to start :
 *       npm install
 *       npm start
